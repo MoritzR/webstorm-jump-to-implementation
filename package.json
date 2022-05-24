@@ -1,0 +1,14 @@
+{
+  "name": "webstorm-go-to-definition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc src/index.ts --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
